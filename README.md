@@ -1,4 +1,8 @@
 # FT61Testing
-ir a la rama dev 
-crearme una rama propia con mi nombre
-git pull origin dev : trae los cambios en dev
+
+
+git checkout dev  / ir a dev
+git pull origin dev / traer los cambios
+git  checkout /nombre de la rama / crear mi rama
+git add .
+git commit -m /mi comentario
